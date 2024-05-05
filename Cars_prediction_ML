@@ -1,0 +1,13 @@
+ML project about One of the biggest challenges of an auto dealership purchasing a used car at an auto auction is the risk of that 
+the vehicle might have serious issues that prevent it from being sold to customers. These cars can be very costly to dealers 
+after transportation cost, throw-away repair work, and market losses in reselling the vehicle. 
+In the dataset these cars are represented in the column IsBadBuy. 
+The challenge of this competition is to predict if the car purchased at the Auction is a good / bad buy.
+The target variable (IsBadBuy) is binary and the data contains missing values.
+
+Ein ML-Projekt über eine der größten Herausforderungen beim Kauf eines Gebrauchtwagens durch ein Autohaus auf einer Autoauktion ist 
+das Risiko, dass das Fahrzeug ernsthafte Probleme haben könnte, die es daran hindern, an Kunden verkauft zu werden. 
+Diese Autos können für die Händler sehr teuer werden, nach Transportkosten, wegwerfbarer Reparaturarbeit 
+und Marktverlusten beim Wiederverkauf des Fahrzeugs. In dem Datensatz werden diese Autos in der Spalte "IsBadBuy" repräsentiert.
+Die Herausforderung dieses Wettbewerbs besteht darin, vorherzusagen, ob das auf der Auktion gekaufte Auto 
+ein guter/schlechter Kauf ist. Die Zielvariable ("IsBadBuy") ist binär, und die Daten enthalten fehlende Werte.
